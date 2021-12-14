@@ -1,0 +1,52 @@
+[
+    {
+      "id":1,
+      "username": "shujaali",
+      "password": "123456"
+    },
+    {
+      "id":2,
+      "username": "john",
+      "password": "123456"
+    },
+    {
+      "id":3,
+      "username": "ali",
+      "password": "123456"
+    },
+    {
+      "id":4,
+      "username": "khan",
+      "password": "123456"
+    },
+    {
+      "id":5,
+      "username": "jess",
+      "password": "123456"
+    },
+    {
+      "id":6,
+      "username": "sohaib",
+      "password": "123456"
+    },
+    {
+      "id":7,
+      "username": "nouman",
+      "password": "123456"
+    },
+    {
+      "id":8,
+      "username": "usama",
+      "password": "123456"
+    },
+    {
+      "id":9,
+      "username": "alik",
+      "password": "123456"
+    },
+    {
+      "id":10,
+      "username": "anas",
+      "password": "123456"
+    }
+  ]
